@@ -22,7 +22,7 @@ import org.json.XML;
 
 /**
  * Aplicación para hacer una copia de seguridad de los datos que hay en deRuta.
- * Se guarda en un txt en la carpeta indicada.
+ * Se guarda en un XML en la carpeta indicada.
  *
  * @author josef
  */
